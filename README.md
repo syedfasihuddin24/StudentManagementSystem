@@ -46,6 +46,50 @@ A full-stack web application to manage students, courses, grades, and faculty �
 - 🎨 Modern UI with Tailwind CSS
 - 🔄 Real-time data updates
 
+## 📸 Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](screen%20shots/Screenshot%202026-04-13%20at%204.24.30%E2%80%AFPM.png)
+
+### Student Dashboard
+![Student Dashboard](screen%20shots/Screenshot%202026-04-13%20at%204.24.48%E2%80%AFPM.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](screen%20shots/Screenshot%202026-04-13%20at%204.24.53%E2%80%AFPM.png)
+
+### Login Page
+![Login Page](screen%20shots/Screenshot%202026-04-13%20at%204.24.59%E2%80%AFPM.png)
+
+### Registration
+![Registration](screen%20shots/Screenshot%202026-04-13%20at%204.25.04%E2%80%AFPM.png)
+
+### Students Management
+![Students Management](screen%20shots/Screenshot%202026-04-13%20at%204.25.11%E2%80%AFPM.png)
+
+### Courses Management
+![Courses Management](screen%20shots/Screenshot%202026-04-13%20at%204.25.19%E2%80%AFPM.png)
+
+### Grades Management
+![Grades Management](screen%20shots/Screenshot%202026-04-13%20at%204.25.29%E2%80%AFPM.png)
+
+### Attendance Management
+![Attendance Management](screen%20shots/Screenshot%202026-04-13%20at%204.25.41%E2%80%AFPM.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](screen%20shots/Screenshot%202026-04-13%20at%204.25.58%E2%80%AFPM.png)
+
+### Dark Mode
+![Dark Mode](screen%20shots/Screenshot%202026-04-13%20at%204.26.14%E2%80%AFPM.png)
+
+### Charts with Percentages
+![Charts with Percentages](screen%20shots/Screenshot%202026-04-13%20at%204.26.39%E2%80%AFPM.png)
+
+### Responsive Design
+![Responsive Design](screen%20shots/Screenshot%202026-04-13%20at%204.26.43%E2%80%AFPM.png)
+
+### Profile Management
+![Profile Management](screen%20shots/Screenshot%202026-04-13%20at%204.26.47%E2%80%AFPM.png)
+
 ---
 
 ## 🛠️ Tech Stack
