@@ -55,9 +55,7 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowedOrigins(List.of(
             "http://localhost:5173",
-            "https://student-management-system-syedfasihuddin24s-projects.vercel.app",
-            "https://student-management-system-git-main-syedfasihuddin24s-projects.vercel.app",
-            "https://student-management-system.vercel.app"
+            "https://student-management-system-eta-lime.vercel.app"
         ));
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         config.setAllowedHeaders(List.of("*"));
