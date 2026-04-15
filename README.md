@@ -180,9 +180,9 @@ CREATE DATABASE student_management_system;
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | admin@sms.com | (register via API) |
-| Teacher | teacher@sms.com | teacher123 |
-| Student | student@sms.com | student123 |
+| Admin | admin@sms.com | admin123 |
+| Teacher | andrew@gmail.com | andrew23 |
+| Student | jack@gmail.com | jack123 |
 
 ---
 
